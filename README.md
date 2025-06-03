@@ -1,8 +1,8 @@
 # Hi! I'm Stella Effiong
 
-**Cybersecurity | Security Analyst | Cloud Security | DevSecOps**
+**Cybersecurity | SOC (Security Operations Center) Analyst | Cloud Security | DevSecOps**
 
-I'm currently learning to become a **Security Analyst**, with a growing interest in **cloud security** and **DevSecOps**.  
+I'm currently learning to become a **SOC Analyst**, with a growing interest in **cloud security** and **DevSecOps**.  
 I'm passionate about understanding how cloud infrastructure works and more importantly, how to secure it.
 
 [Linkedin Profile - Stella Effiong](https://www.linkedin.com/in/stella-effiong-157487236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
